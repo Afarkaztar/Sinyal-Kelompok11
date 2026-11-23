@@ -1,0 +1,21 @@
+============================================================
+   LAPORAN HASIL EKSTRAKSI DENYUT JANTUNG (SINYAL ECG)
+============================================================
+Nama Pasien / Penguji   : Afarik
+Waktu Pengujian         : 23-Nov-2026 09:12:55
+Frekuensi Sampling (fs) : 500 Hz
+Durasi Rekaman          : 10 detik
+
+--- HASIL FILTERING ---
+SNR Sebelum Filtering   : -0.10 dB
+SNR Setelah Filtering   : 7.99 dB
+Peningkatan SNR         : +8.08 dB
+
+--- HASIL DETEKSI DENYUT JANTUNG ---
+BPM Input Referensi     : 80.00 BPM
+BPM Terdeteksi          : 80.00 BPM
+Rata-rata RR-Interval   : 0.7500 detik
+Jumlah R-Peak Terdeteksi: 13 detak
+Persentase Error BPM    : 0.0000 %
+Klasifikasi Klinis      : Normal (60 - 100 BPM)
+============================================================
